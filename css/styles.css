@@ -100,3 +100,51 @@ body {
 .nav-link7:hover {
     color: #7B4AE280;
 }
+.section1 {
+    margin-top: 101px;
+}
+.section1-container1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    margin-left: 140px;
+}
+.section1-container1-box {
+    width: 160px;
+    height: 45px;
+    background: rgba(123, 74, 226, 0.1);
+    border-radius: 10px;
+}
+.section1-container1-box-text {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #7B4AE2;
+    margin-top: 10px;
+}
+.section1-text1 {
+    margin-top: 28px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+.section1-text2 {
+    margin-top: 16px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.section1-social-img {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    margin-top: 25px;
+}
