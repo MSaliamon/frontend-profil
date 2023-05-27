@@ -1664,3 +1664,72 @@ padding: 5px 10px 5px 10px;
     line-height: 23px;
     color: #7B4AE2;
 }
+.section6 {
+    margin-top: 24px;
+}
+.section6-title {
+    margin-left: 628px;
+    width: 663px;
+    height: 60px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+.section6-text1 {
+    margin-top: 100px;
+    margin-left: 820px;
+    width: 528.52px;
+    height: 37px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.section6-container1 {
+    margin-left: 500px;
+    gap: 32px;
+}
+.section6-container1-img1 {
+    margin-right: 32px;
+}
+.section6-container1-img2 {
+    margin-right: 32px;
+}
+.section6-container1-img3 {
+    margin-right: 32px;
+}
+.section6-container1-img4 {
+    margin-right: 32px;
+}
+.section6-container1-img5 {
+    margin-right: 32px;
+}
+.section6-container1-img6 {
+    margin-right: 32px;
+}
+.section6-container1-img7 {
+    margin-right: 32px;
+}
+.section6-container1-img8 {
+    margin-right: 32px;
+}
+.section6-container1-img9 {
+    margin-right: 32px;
+}
+.section6-text2 {
+    margin-left: 750px;
+    margin-top: 64px;
+    width: 528.52px;
+    height: 37px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 0.5);
+}
