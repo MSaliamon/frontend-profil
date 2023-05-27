@@ -475,3 +475,41 @@ padding: 5px 10px 5px 10px;
     line-height: 25px;
     color: rgba(255, 255, 255, 0.5);
 }
+.section4 {
+    margin-top: 140px;
+}
+.section4-container1 {
+    margin-left: 140px;
+}
+.section4-container1-box {
+    padding: 10px 5px 10px 5px;
+    width: 144px;
+    height: 45px;
+    background: rgba(123, 74, 226, 0.1);
+    border-radius: 16px;
+}
+.section4-container1-box-text {
+    width: 124px;
+    height: 36px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #7B4AE2;
+}
+.section4-container1-title {
+    margin-top: 24px;
+    width: 663px;
+    height: 60px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+.section4-container2 {
+    display: flex;
+    flex-direction: row;
+}
