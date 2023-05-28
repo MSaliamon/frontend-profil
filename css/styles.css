@@ -1692,7 +1692,6 @@ padding: 5px 10px 5px 10px;
 }
 .section6-container1 {
     margin-left: 500px;
-    gap: 32px;
 }
 .section6-container1-img1 {
     margin-right: 32px;
@@ -1721,6 +1720,7 @@ padding: 5px 10px 5px 10px;
 .section6-container1-img9 {
     margin-right: 32px;
 }
+
 .section6-text2 {
     margin-left: 750px;
     margin-top: 64px;
@@ -1732,4 +1732,53 @@ padding: 5px 10px 5px 10px;
     font-size: 24px;
     line-height: 28px;
     color: rgba(255, 255, 255, 0.5);
+}
+.section6-container2 {
+    margin-left: 520px;
+}
+.section6-container2-img1 {
+    margin-right: 32px;
+}
+.section6-container2-img2 {
+    margin-right: 32px;
+}
+.section6-container2-img3 {
+    margin-right: 32px;
+}
+.section6-container2-img4 {
+    margin-right: 32px;
+}
+.section6-container2-img5 {
+    margin-right: 32px;
+}
+.section6-container2-img6 {
+    margin-right: 32px;
+}
+.section6-container2-img7 {
+    margin-right: 32px;
+}
+.section6-container2-img8 {
+    margin-right: 32px;
+}
+.section6-container2-img9 {
+    margin-right: 32px;
+}
+.section6-container3 {
+    padding: 10px 5px 10px 5px;
+    margin-top: 140px;
+    margin-left: 895px;
+    width: 130px;
+    height: 45px;
+    background: rgba(123, 74, 226, 0.1);
+    border-radius: 16px;
+}
+.section6-container3-text {
+    width: 110px;
+    height: 36px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #7B4AE2;
 }
