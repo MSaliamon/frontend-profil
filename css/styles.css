@@ -2594,3 +2594,146 @@ padding: 5px 10px 5px 10px;
     line-height: 23px;
     color: #7B4AE2;
 }
+.section9 {
+    margin-top: 24px;
+    margin-bottom: 70px;
+}
+.section9-title {
+    margin-left: 600px;
+    width: 663px;
+    height: 60px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.section9-container1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 673px;
+    margin-top: 64px;
+    gap: 40px;
+}
+.section9-container1-box {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    width: 246px;
+    height: 60px;
+    border: 1px solid rgba(123, 74, 226, 0.5);
+    border-radius: 16px;
+}
+.section9-Whatsapp {
+    width: 38px;
+    height: 38px;
+}
+.section9-container1-box-text {
+    margin-top: 11px;
+    margin-left: 8px;
+    width: 170px;
+    height: 37px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(123, 74, 226, 0.5);
+}
+.section9-container1-box2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.section9-container1-box2-img {
+    margin-left: 100px;
+    width: 40px;
+    height: 40px;
+}
+.section9-container1-box2-text1 {
+    margin-left: 80px;
+    width: 92px;
+    height: 28px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #7B4AE2;
+}
+.section9-container1-box2-text2 {
+    width: 289px;
+    height: 29px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.section9-container1-box2-img2 {
+    margin-left: 100px;
+    width: 32px;
+    height: 32px;
+}
+.section9-container1-box3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 69px;
+}
+.section9-container1-box3-text {
+    margin-left: 872px;
+    color: rgba(123, 74, 226, 0.5);
+    width: 135px;
+    height: 37px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
+.section9-container1-box3-img {
+    width: 32px;
+    height: 32px;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    width: 1931px;
+    height: 88px;
+    background: rgba(123, 74, 226, 0.1);
+}
+.footer-text {
+    margin-top: 32px;
+    margin-left: 146px;
+    width: 457px;
+    height: 29px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.footer-linkedin {
+    margin-top: 23px;
+    margin-left: 284px;
+    width: 38px;
+    height: 38px;
+}
+.footer-github {
+    margin-left: 20px;
+    margin-top: 23px;
+    width: 38px;
+    height: 38px;
+}
+.footer-behance {
+    margin-left: 20px;
+    margin-top: 23px;
+    width: 38px;
+    height: 38px;
+}
